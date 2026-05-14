@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/ai-seo-audit-tool/',
+  base: '/AI-SEO-Audit-Tool/',
   build: {
     outDir: 'dist',
     sourcemap: false
